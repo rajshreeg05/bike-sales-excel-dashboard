@@ -2,9 +2,9 @@
 
 An interactive Excel dashboard exploring which customers are most likely to buy a bike, based on income, age, commute distance and region.
 
-![Dashboard preview](dashboard.png)
+![Dashboard preview](bikesales_dashboard.png)
 
-**[Download the Excel file](bike_sales_dashboard.xlsx)** to explore the dashboard and use the slicers.
+**[Download the Excel file](bike sales dashboard.xlsx)** to explore the dashboard and use the slicers.
 
 ## Questions explored
 
